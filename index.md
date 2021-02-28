@@ -27,7 +27,7 @@ page_sections:
     url: https://wp-designs.studio/#about
     button_text: Tentang Kami
   image:
-    image: "/uploads/product-shot.webp"
+    image: "/uploads/undraw_city_life_gnpr.svg"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
