@@ -5,11 +5,11 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/wp-logo.png"
+  logo: "/uploads/wp-logo.webp"
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#layanan"
+  - link: "#service"
     link_text: Layanan
   - link: "#about"
     link_text: Tentang Kami
@@ -19,27 +19,26 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Buat website dengan <br><strong>WPDesign.</strong>
+  content: Kami siap membantu Anda membuat website WordPress &amp; Landing Page dengan
+    cepat.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://wp-designs.studio/#about
+    button_text: Tentang Kami
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/product-shot.webp"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  slug: service
+  headline: "<strong>Jasa apa yang kami tawarkan?</strong>"
+  content: Kami melayani pembuatan website berbasis WordPress, Landing Page, migrasi
+    website WordPress &amp; setup VPS.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/wpdesign-service-block.webp"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
