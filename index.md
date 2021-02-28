@@ -8,15 +8,11 @@ page_sections:
   logo: "/uploads/2021/02/28/wp-logo.png"
   navigation:
   - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+    link_text: Home
+  - link: "#layanan"
+    link_text: Layanan
+  - link: "#about"
+    link_text: Tentang Kami
   cta:
     url: https://wp-designs.studio/#contact
     button_text: Kontak
