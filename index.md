@@ -54,7 +54,7 @@ page_sections:
   block: one-column-1
   slug: contact
   headline: Hubungi Kami
-  content: info@maucariapa.com
+  content: <a href="mailto:vdrive6@gmail.com" title="">vdrive6@gmail.com</a>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Bandung<br>Powered by <a href="https://app.cosmicjs.com/signup?ref=Sk5yekDrv"
