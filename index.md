@@ -19,7 +19,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Buat website dengan <br><strong>WPDesign.</strong>
+  headline: Luncurkan website dengan <br><strong>WordPress.</strong>
   content: Kami siap membantu Anda membuat website WordPress &amp; Landing Page dengan
     cepat.
   cta:
